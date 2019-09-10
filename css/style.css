@@ -1,0 +1,13 @@
+body{
+    padding-top: 100px;
+}
+.c-caja{
+    text-align: center;
+    font-family: 'Roboto';
+}
+.c-comentarios{
+    text-align: center;
+}
+.c-comentarios__shadow{
+    font-family: 'Helvica';
+}
